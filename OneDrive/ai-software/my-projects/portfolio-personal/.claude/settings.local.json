@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(curl:*)",
+      "Bash(winget install:*)",
+      "Bash(choco install:*)",
+      "Bash(msiexec:*)",
+      "Bash(quarto:*)",
+      "Read(//c/Program Files/**)",
+      "Bash(scoop install:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

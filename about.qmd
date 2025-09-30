@@ -6,12 +6,12 @@ title: "About Me"
 
 <img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Logan Betts</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/logan-betts-50ba6335b/" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/loganbuilds" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
@@ -19,45 +19,48 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+I’ve always been drawn to solving real-world problems—not just through ideas, but by building and improving systems that work. My journey into product management is a natural blend of my background in business, entrepreneurship, and software, paired with a deep curiosity for how people interact with technology. Whether collaborating on early-stage ideas, writing user stories, or testing prototypes, I’m driven by the process of turning vision into execution—and feedback into iteration.
 
 ### Education
 
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+- **BS in Strategic Management**, Brigham Young University (Expected 2026)
+- **Relevant Coursework**: Product Management, Entrepreneurship, Business Strategy, Data Analytics, AI & Software, Marketing, Organizational Behavior
+- **Academic Achievements**: Product portfolio capstone, cross-functional project collaborations, accepted into competitive lecture series programs
 
 ### Experience
 
-#### Job/Internship Title - Company Name
-*Dates*
+#### Product Management Intern – [Your Company Name]
+*Summer 2025*
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
+- Conducted customer interviews and competitive analysis to shape MVP requirements
+- Collaborated with engineering and design teams to define feature specs and timelines
+- Tracked performance metrics to inform iteration and stakeholder communication
 
-#### Another Position - Company Name
-*Dates*
+#### Strategy & Ops Intern – [Another Company Name]
+*Fall 2024*
 
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+- Led process improvement analysis across sales funnel stages
+- Presented weekly insights using Tableau dashboards and Excel models
+- Coordinated with cross-functional teams to implement pilot solutions
 
 ### Skills & Interests
 
 **Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
+- Programming: Python, SQL, JavaScript (basic)
+- Analytics: Excel, Tableau, Power BI
+- Product Tools: Jira, Notion, Figma, GitHub
 
 **Soft Skills**
-- Communication and presentation
+- Clear and concise communication
 - Cross-functional collaboration
-- Strategic thinking and problem-solving
+- Prioritization, roadmapping, and problem-solving
 
 **Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+- Tech entrepreneurship and startups
+- Outdoor adventures (hiking, camping, canyoneering)
+- Personal development, mentoring, and learning new tools
 
 ### What's Next
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+I'm seeking opportunities to work on mission-driven products that sit at the intersection of technology, strategy, and user experience. Whether it’s building tools for small businesses, shaping internal workflows, or launching new customer-facing features, I’m excited to contribute as a product thinker, builder, and teammate.
+
